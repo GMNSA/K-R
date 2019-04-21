@@ -1,4 +1,4 @@
-NAME=fahrenheit_1_3.out
+NAME=celsium_1_3.out
 SRCS=srcs/*.c
 
 all:

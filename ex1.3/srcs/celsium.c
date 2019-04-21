@@ -2,7 +2,15 @@
 
 #include "../includes/tools.h"
 
-void    fahrenheit(void)
+/*
+ * Function: celsium.
+ * Arguments: (void)
+ * Description: Fahrenheit temperature conversion Celsius
+ *              and output corresponding table.
+ *              C = (5*9) * (F-32)
+ * return: (void)
+ * */
+void    celsium(void)
 {
     float   fahr;
     float   celsium;

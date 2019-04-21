@@ -5,6 +5,6 @@
 
 #include <stdio.h>
 
-void    fahrenheit(void);
+void    celsium(void);
 
 #endif
