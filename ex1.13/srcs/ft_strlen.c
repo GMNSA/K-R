@@ -1,0 +1,12 @@
+/* ft_strlen.c */
+
+/* Line length count */
+int     ft_strlen(char *string)
+{
+    int     i;
+
+    i = 0;
+    while (string[i] != '\0')
+        ++i;
+    return (i);
+}
