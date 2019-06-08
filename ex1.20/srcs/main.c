@@ -38,7 +38,7 @@ void    detab(void)
         if (c == '\t')
         {
             for (int i = 0; i < (n - nc); ++i)
-                putchar('-');
+                putchar(' ');
             nc = 0;
         }
         else
